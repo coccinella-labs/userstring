@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/userstring/main/.github/assets/thumbnail.png" alt="userstring" width="100%">
+</p>
+
 # PostPhone User String
 
 A quiet specification for a user string that signals focus, intentional computing, and steady progress without cell phones.
