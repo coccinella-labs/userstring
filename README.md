@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/userstring/main/.github/assets/thumbnail.png" alt="userstring" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/userstring/main/.github/assets/thumbnail.png" alt="userstring" width="100%">
 </p>
 
 # PostPhone User String
