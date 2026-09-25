@@ -2,7 +2,7 @@
 name = "userstring"
 version = "0.1.0"
 description = "Utility for generating user strings and user-agent headers"
-authors = [{name = "Niladri Das"}]
+authors = [{name = "Coccinella Labs"}]
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = ["click>=8.1"]
